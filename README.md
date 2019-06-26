@@ -1,6 +1,6 @@
 # Github_Find_Users
-## A simple app that tinkers with the Github API and React JS using Hooks
-## to find any user on Github, check their repos, followers and bio
+#### A simple app that tinkers with the Github API and React JS using Hooks. 
+#### Find any user on Github, check their repos, followers and bio.
 
 1. Clone this repo
 2. npm install & npm start
